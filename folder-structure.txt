@@ -1,0 +1,78 @@
+gondo-car-landing/
+├── public/
+│   ├── assets/
+│   │   ├── images/
+│   │   │   ├── cars/
+│   │   │   │   ├── gondo-suv.png
+│   │   │   │   ├── gondo-suv-black.png
+│   │   │   │   ├── gondo-suv-grey.png
+│   │   │   │   ├── gondo-suv-red.png
+│   │   │   │   ├── gondo-suv-white.png
+│   │   │   │   ├── gondo-sport.png
+│   │   │   │   ├── gondo-sport-black.png
+│   │   │   │   ├── gondo-sport-blue.png
+│   │   │   │   ├── gondo-sport-grey.png
+│   │   │   │   ├── gondo-sport-white.png
+│   │   │   │   ├── gondo-sedan.png
+│   │   │   │   ├── gondo-sedan-black.png
+│   │   │   │   ├── gondo-sedan-burgundy.png
+│   │   │   │   ├── gondo-sedan-grey.png
+│   │   │   │   ├── gondo-sedan-silver.png
+│   │   │   │   ├── gondo-sedan-white.png
+│   │   │   ├── logos/
+│   │   │   │   ├── gondo-logo.png
+│   │   │   ├── backgrounds/
+│   │   │   │   ├── hero-bg.jpg
+│   │   │   │   ├── section-bg.jpg
+│   │   │   ├── car-interior.jpg
+│   │   │   ├── footer.jpg
+│   │   │   ├── section1.jpg
+│   │   │   ├── section2.jpg
+│   │   │   ├── section3.jpg
+│   │   │   ├── section4.jpg
+│   ├── index.html
+│   ├── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Features.jsx
+│   │   ├── CarSelector.jsx
+│   │   ├── CarDetails.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── OrderForm.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── UI/
+│   │   │   ├── Button.jsx
+│   │   │   ├── Card.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Loading.jsx
+│   ├── effects/
+│   │   ├── ThreeBackground.jsx
+│   │   ├── GradientEffect.jsx
+│   │   ├── CinematicEffects.jsx
+│   │   ├── ParticleEffect.jsx
+│   ├── hooks/
+│   │   ├── useAnimations.js
+│   │   ├── useThreeScene.js
+│   ├── context/
+│   │   ├── CarContext.jsx
+│   │   ├── OrderContext.jsx
+│   ├── utils/
+│   │   ├── animations.js
+│   │   ├── helpers.js
+│   ├── pages/
+│   │   ├── LandingPage.jsx
+│   ├── App.jsx
+│   ├── index.jsx
+│   ├── styles/
+│   │   ├── index.css
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+├── README.md
+├── postcss.config.js
+├── index.html
+├── .gitignore
+├── folder-structure.txt
